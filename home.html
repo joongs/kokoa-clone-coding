@@ -12,19 +12,33 @@
   </head>
   <body>
     <h1>Hello!</h1>
+
+    <h2>a tag</h2>
     <a href="https://google.com" target="_blank">Go to Google</a>
+
+    <h2>image tag</h2>
     <img src="img/logo.svg" />
+
+    <h2>p tag</h2>
     <p>lalalalalallalalalalalal</p>
+
+    <h2>pre tag</h2>
     <pre>hello! </pre>
+
+    <h2>p and other tags</h2>
     <p>I like to live in <mark>South Korea</mark></p>
     <p>I like to live in <strong>South Korea</strong></p>
     <p>I like to live in <sub>South Korea</sub></p>
     <p>I like to live in <sup>South Korea</sup></p>
+
+    <h2>Audio</h2>
     <audio
       controls="enable"
       autoplay="enable"
       src="https://interactive-examples.mdn.mozilla.net/media/cc0-audio/t-rex-roar.mp3"
     ></audio>
+
+    <h2>Dialog</h2>
     <dialog open>
       <p>Greetings, one and all!</p>
       <form method="dialog">
@@ -32,13 +46,56 @@
       </form>
     </dialog>
 
+    <h2>Test Form</h2>
     <form>
-      <input type="file" accept="image/*, .pdf" />
-      <input required placeholder="Name" type="text" />
-      <input placeholder="Last Name" disabled type="text" />
-      <input required placeholder="Username" type="text" />
-      <input required placeholder="Password" minlength="10" type="password" />
+      <label for="profile">Profile Photo</label>
+      <input id="profile" type="file" accept="image/*, .pdf" />
+
+      <label for="first-name">First Name</label>
+      <input id="first-name" required placeholder="Name" type="text" />
+
+      <label for="last-name">Last Name</label>
+      <input id="last-name" placeholder="Last Name" disabled type="text" />
+
+      <label for="user-name">User Name</label>
+      <input id="user-name" required placeholder="Username" type="text" />
+
+      <label for="password">Password</label>
+      <input
+        id="password"
+        required
+        placeholder="Password"
+        minlength="10"
+        type="password"
+      />
       <input type="submit" value="Create Account" />
+    </form>
+
+    <h2>WebSite Form</h2>
+    <form>
+      <label for="website">Website</label>
+      <input id="website" placeholder="url" type="url" />
+      <input type="submit" value="Create Website" />
+    </form>
+
+    <h2>Email Form</h2>
+    <form>
+      <label for="email">Email</label>
+      <input id="email" placeholder="email address" type="email" />
+      <input type="submit" value="Create email address" />
+    </form>
+
+    <h2>Range Form</h2>
+    <form>
+      <label for="range">range</label>
+      <input id="range" type="range" />
+    </form>
+
+    <h2>Date Form</h2>
+    <form>
+      <label for="date">date</label>
+      <input id="date" type="date" required />
+      <input type="submit" value="select Date" />
     </form>
   </body>
 </html>
