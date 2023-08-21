@@ -9,33 +9,26 @@
     <title>Home - My first website.</title>
     <link href="styles.css" rel="stylesheet" />
     <style>
-      :root {
-        --main-color: #c8e65f;
-        --default-border: 1px solid var(--main-color);
-      }
-      body {
-        height: 1000vh;
-        margin: 50px;
-      }
-      p {
-        background-color: var(--main-color);
-      }
       a {
-        color: var(--main-color);
-        border: var(--default-border);
+        color: white;
+        background-color: tomato;
+        text-decoration: none;
+        padding: 3px 5px;
+        border-radius: 5px;
+        font-size: 55px;
+        /* transition: background-color 10s ease-in-out, color 5s ease-in-out; */
+        transition: all 1s ease-in-out;
+      }
+      a:hover {
+        border-radius: 20px;
+        color: tomato;
+        background-color: wheat;
       }
     </style>
     <meta charset="utf-8" />
     <meta name="deescription" content="This is my website" />
   </head>
   <body>
-    <p>
-      afasfasfasfasf
-      afasfasfasfasfasafasfasfasdfsadfasdfasdfasdfsdfsadfasdfsadfasdfasdfas
-      safsadfsdfasdfsfsadfk;alsjf;lksjf;laksjf;lkasj;dfjas;lkfj;aslkjdf;as
-    </p>
-    <div>
-      <a href="#">website</a>
-    </div>
+    <a href="#">Go Home</a>
   </body>
 </html>
