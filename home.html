@@ -9,17 +9,18 @@
     <title>Home - My first website.</title>
     <link href="styles.css" rel="stylesheet" />
     <style>
+      @keyframes superSexyCoinFlip {
+        from {
+          transform: rotateY(0);
+        }
+        to {
+          transform: rotateY(180deg);
+        }
+      }
       img {
         border: 2px solid black;
         border-radius: 50%;
-        /* transform: rotateY(35deg) rotateX(20deg) rotateZ(10deg); */
-        /* transform: scale(2, 2); */
-        /* transform: translateX(150px); */
-        transition: transform 5s ease-in-out;
-      }
-      img:hover {
-        transform: rotateZ(90deg) scale(0.5);
-      }
+        animation: superSexyCoinFlip 5s ease-in-out infinite;
       }
     </style>
     <meta charset="utf-8" />
@@ -27,6 +28,5 @@
   </head>
   <body>
     <img src="img/logo.svg" />
-    <span>hadjf;askjf;akfja;kjf;askj;af</span>
   </body>
 </html>
