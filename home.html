@@ -13,17 +13,11 @@
         height: 1000vh;
         margin: 50px;
       }
-      span {
-        color: tomato;
-        background-color: yellowgreen;
-        padding: 5px;
-        border-radius: 10px;
+      input {
+        border: 1px solid wheat;
       }
-      p span {
-        color: white;
-      }
-      p + span {
-        text-decoration: underline;
+      input:required {
+        border-color: tomato;
       }
     </style>
     <meta charset="utf-8" />
@@ -31,11 +25,10 @@
   </head>
   <body>
     <div>
-      <p>
-        qwerqwrqwerqwerqwe qrqwr qr qwr qw r qw rwq r qw rw r wqrq rq .
-        <span>inside</span>
-      </p>
-      <span>hello</span>
+      <form>
+        <input type="text" placeholder="username" />
+        <input type="password" required placeholder="password" />
+      </form>
     </div>
   </body>
 </html>
