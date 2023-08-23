@@ -29,7 +29,10 @@
 0. Introduction
 1. Sign Up Screen Part One
 2. BEM
+    * [reference site--css trics](https://css-tricks.com/bem-101/)
+    * [reference site--getbem](https://getbem.com/introduction/)
 3. Font Awesome
+    * [Font Awesome](https://fontawesome.com/)
 4. Sign Up Screen Part Two
 5. Status Bar CSS
 6. Sign Up Screen Part Three
