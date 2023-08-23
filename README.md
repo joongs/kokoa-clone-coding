@@ -41,6 +41,7 @@
 12. Border Box
 13. Navigation Bar Part Three
 14. Screen Header
-15. ...
+15. Friends Screen part One
+16. ...
 
 ### 7 PUBLISHING OUR WEBSITE
