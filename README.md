@@ -37,9 +37,10 @@
 5. Status Bar CSS
    * [google font](https://fonts.google.com/)
 6. Sign Up Screen Part Three
-    * [reset css](https://meyerweb.com/eric/tools/css/reset/)
-    * [Page Ruler Smart](https://chrome.google.com/webstore/detail/page-ruler-smart/dfhpegnjdcbokjipkckekjeicjpicdcc)
+   * [reset css](https://meyerweb.com/eric/tools/css/reset/)
+   * [Page Ruler Smart](https://chrome.google.com/webstore/detail/page-ruler-smart/dfhpegnjdcbokjipkckekjeicjpicdcc)
 7. Log In Form Part One
+   * [colorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
 8. Log In Form Part Two
 9. Recap and Forms
 10. Navigation Bar Part One
