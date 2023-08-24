@@ -29,14 +29,16 @@
 0. Introduction
 1. Sign Up Screen Part One
 2. BEM
-    * [reference site--css trics](https://css-tricks.com/bem-101/)
-    * [reference site--getbem](https://getbem.com/introduction/)
+   * [reference site--css trics](https://css-tricks.com/bem-101/)
+   * [reference site--getbem](https://getbem.com/introduction/)
 3. Font Awesome
-    * [Font Awesome](https://fontawesome.com/)
+   * [Font Awesome](https://fontawesome.com/)
 4. Sign Up Screen Part Two
 5. Status Bar CSS
-     * [google font](https://fonts.google.com/)
+   * [google font](https://fonts.google.com/)
 6. Sign Up Screen Part Three
+    * [reset css](https://meyerweb.com/eric/tools/css/reset/)
+    * [Page Ruler Smart](https://chrome.google.com/webstore/detail/page-ruler-smart/dfhpegnjdcbokjipkckekjeicjpicdcc)
 7. Log In Form Part One
 8. Log In Form Part Two
 9. Recap and Forms
