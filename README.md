@@ -35,6 +35,7 @@
     * [Font Awesome](https://fontawesome.com/)
 4. Sign Up Screen Part Two
 5. Status Bar CSS
+     * [google font](https://fonts.google.com/)
 6. Sign Up Screen Part Three
 7. Log In Form Part One
 8. Log In Form Part Two
