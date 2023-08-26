@@ -44,6 +44,7 @@
 8. Log In Form Part Two
    * [css not](https://developer.mozilla.org/ko/docs/Web/CSS/:not)
 9. Recap and Forms
+   * Form method - get/post and action
 10. Navigation Bar Part One
 11. Navigation Bar Part Two
 12. Border Box
