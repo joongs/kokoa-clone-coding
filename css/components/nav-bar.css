@@ -17,7 +17,7 @@
     color: #2e363e;
 }
 
-.nav_notification {
+.nav__notification {
     background-color: tomato;
     width: 30px;
     height: 30px;
@@ -30,4 +30,17 @@
     position:absolute;
     left:15px;
     bottom: 15px;
+}
+
+.nav__shirink {
+    background-color: tomato;
+    width: 5px;
+    height: 5px;
+    border-radius:3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left:30px;
+    bottom:30px;
 }
