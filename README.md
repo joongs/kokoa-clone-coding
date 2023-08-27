@@ -48,6 +48,7 @@
 10. Navigation Bar Part One
 11. Navigation Bar Part Two
 12. Border Box
+   * homework: status-bar도 위치 고정하기
 13. Navigation Bar Part Three
    * homework: ellipsis에도 postion `relative`와 position `absolute`적용하기
 14. Screen Header
