@@ -55,6 +55,8 @@
    * [music icon](https://fontawesome.com/v5/icons/music?f=classic&s=solid&sz=lg)
    * [cog icon](https://fontawesome.com/v5/icons/cog?f=classic&s=solid&sz=lg)
 15. Friends Screen part One
+   * [info circle](https://fontawesome.com/v5/icons/info-circle?f=classic&s=solid)
+   * [chevrun](https://fontawesome.com/v5/icons/chevron-right?f=classic&s=solid&sz=xs)
 16. ...
 
 ### 7 PUBLISHING OUR WEBSITE
