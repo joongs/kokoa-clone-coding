@@ -29,34 +29,39 @@
 0. Introduction
 1. Sign Up Screen Part One
 2. BEM
-   * [reference site--css trics](https://css-tricks.com/bem-101/)
-   * [reference site--getbem](https://getbem.com/introduction/)
+  * [reference site--css trics](https://css-tricks.com/bem-101/)
+  * [reference site--getbem](https://getbem.com/introduction/)
 3. Font Awesome
-   * [Font Awesome](https://fontawesome.com/)
+  * [Font Awesome](https://fontawesome.com/)
 4. Sign Up Screen Part Two
 5. Status Bar CSS
-   * [google font](https://fonts.google.com/)
+  * [google font](https://fonts.google.com/)
 6. Sign Up Screen Part Three
-   * [reset css](https://meyerweb.com/eric/tools/css/reset/)
-   * [Page Ruler Smart](https://chrome.google.com/webstore/detail/page-ruler-smart/dfhpegnjdcbokjipkckekjeicjpicdcc)
+  * [reset css](https://meyerweb.com/eric/tools/css/reset/)
+  * [Page Ruler Smart](https://chrome.google.com/webstore/detail/page-ruler-smart/dfhpegnjdcbokjipkckekjeicjpicdcc)
 7. Log In Form Part One
-   * [colorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+  * [colorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
 8. Log In Form Part Two
-   * [css not](https://developer.mozilla.org/ko/docs/Web/CSS/:not)
+  * [css not](https://developer.mozilla.org/ko/docs/Web/CSS/:not)
 9. Recap and Forms
-   * Form method - get/post and action
+  * Form method - get/post and action
 10. Navigation Bar Part One
 11. Navigation Bar Part Two
 12. Border Box
-   * homework: status-bar도 위치 고정하기
+  * homework: status-bar도 위치 고정하기
 13. Navigation Bar Part Three
-   * homework: ellipsis에도 postion `relative`와 position `absolute`적용하기
+  * homework: ellipsis에도 postion `relative`와 position `absolute`적용하기
 14. Screen Header
-   * [music icon](https://fontawesome.com/v5/icons/music?f=classic&s=solid&sz=lg)
-   * [cog icon](https://fontawesome.com/v5/icons/cog?f=classic&s=solid&sz=lg)
+  * [music icon](https://fontawesome.com/v5/icons/music?f=classic&s=solid&sz=lg)
+  * [cog icon](https://fontawesome.com/v5/icons/cog?f=classic&s=solid&sz=lg)
 15. Friends Screen part One
-   * [info circle](https://fontawesome.com/v5/icons/info-circle?f=classic&s=solid)
-   * [chevrun](https://fontawesome.com/v5/icons/chevron-right?f=classic&s=solid&sz=xs)
-16. ...
+  * [info circle](https://fontawesome.com/v5/icons/info-circle?f=classic&s=solid)
+  * [chevrun](https://fontawesome.com/v5/icons/chevron-right?f=classic&s=solid&sz=xs)
+16. User Component Part One
+17. User Component Part Two
+18. Finishing Friends Screen
+19. Chats Screen Part One
+20. Chats Screen Part Two
+21. Find Screen Pat One
 
 ### 7 PUBLISHING OUR WEBSITE
