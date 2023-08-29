@@ -52,6 +52,8 @@
 13. Navigation Bar Part Three
    * homework: ellipsis에도 postion `relative`와 position `absolute`적용하기
 14. Screen Header
+   * [music icon](https://fontawesome.com/v5/icons/music?f=classic&s=solid&sz=lg)
+   * [cog icon](https://fontawesome.com/v5/icons/cog?f=classic&s=solid&sz=lg)
 15. Friends Screen part One
 16. ...
 
