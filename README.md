@@ -61,6 +61,9 @@
 17. User Component Part Two
 18. Finishing Friends Screen
 19. Chats Screen Part One
+  * [user icon](https://fontawesome.com/v5/icons/user?f=classic&s=regular)
+  * [chat icon](https://fontawesome.com/v5/icons/comment?f=classic&s=solid)
+  * [comment icon](https://fontawesome.com/v5/icons/comment-dots?f=classic&s=regular&sz=lg)
 20. Chats Screen Part Two
 21. Find Screen Pat One
 
