@@ -16,3 +16,18 @@
 .screen-header__icons span {
     margin-left: 25px;
 }
+
+.screen-header__icons-shirink {
+    background-color: tomato;
+    width: 5px;
+    height: 5px;
+    border-radius:3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    /* left:30px; */
+    /* bottom:300px; */
+    right: 12px;
+    top: 50px;
+}
