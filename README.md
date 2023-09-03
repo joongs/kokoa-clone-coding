@@ -65,6 +65,36 @@
   * [chat icon](https://fontawesome.com/v5/icons/comment?f=classic&s=solid)
   * [comment icon](https://fontawesome.com/v5/icons/comment-dots?f=classic&s=regular&sz=lg)
 20. Chats Screen Part Two
-21. Find Screen Pat One
+21. Find Screen Part One
+  * Homework: 설정버튼의 빨간 마크
+  * [QR icon](https://fontawesome.com/v5/icons/qrcode?f=classic&s=solid&sz=lg)
+  * [Contact book icon](https://fontawesome.com/v5/icons/address-book?f=classic&s=regular&sz=lg)
+  * [ID icon](https://fontawesome.com/v5/icons/fingerprint?f=classic&s=solid&sz=lg)
+  * [Invitation icon](https://fontawesome.com/v5/icons/envelope?f=classic&s=regular&sz=lg)
+22. Find Screen Part Two
+  * []()
+23. Find Screen Part Three
+24. Find Screen Part Four
+25. More Screen Part One
+26. More Screen Part Two
+27. Settings Screen Part One
+28. Settings and Chat Screen Part One
+29. Chat Screen Part Two
+30. Chat Screen Part Three
+31. Chat Screen Part Four
+32. Chat Screen Part Five
+33. Write Message Input
+34. Splash Screen Part One
+35. Splash Screen Part Two
+36. Navigation Animation
+37. More Animations
+38. Animating Chats Screen
+39. Recap
+40. No Mobile Media Query
 
 ### 7 PUBLISHING OUR WEBSITE
+
+0. Branches on Git
+1. Publishing on GitHub Pages
+2. Updating GitHub Pages
+3. Conclusions
