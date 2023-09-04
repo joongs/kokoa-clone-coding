@@ -75,8 +75,16 @@
 23. Find Screen Part Three
     * [chevrun](https://fontawesome.com/v5/icons/chevron-right?f=classic&s=solid&sz=xs)
 24. Find Screen Part Four
-    * [heart](https://fontawesome.com/v5/icons/heart?f=classic&s=solid)
+    * [heart icon](https://fontawesome.com/v5/icons/heart?f=classic&s=solid)
 25. More Screen Part One
+    * [comment icon](https://fontawesome.com/v5/icons/comment-alt?f=classic&s=regular&sz=lg)
+    * [calendar icon](https://fontawesome.com/v5/icons/calendar?f=classic&s=regular&sz=lg)
+    * [smile bean icon](https://fontawesome.com/v5/icons/smile-beam?f=classic&s=regular&sz=lg)
+    * [paint roller icon](https://fontawesome.com/v5/icons/paint-roller?f=classic&s=solid&sz=lg)
+    * [invoice dollar icon](https://fontawesome.com/v5/icons/file-invoice-dollar?f=classic&s=solid&sz=lg)
+    * [quote icon](https://fontawesome.com/v5/icons/quote-right?f=classic&s=solid&sz=lg)
+    * [users icon](https://fontawesome.com/v5/icons/user-friends?f=classic&s=solid&sz=lg)
+    * [game icon](https://fontawesome.com/v5/icons/playstation?f=brands&s=solid&sz=lg)
 26. More Screen Part Two
 27. Settings Screen Part One
 28. Settings and Chat Screen Part One
