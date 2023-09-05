@@ -87,6 +87,11 @@
     * [game icon](https://fontawesome.com/v5/icons/playstation?f=brands&s=solid&sz=lg)
 26. More Screen Part Two
 27. Settings Screen Part One
+    * [angle left icon](https://fontawesome.com/v5/icons/angle-left?f=classic&s=solid&sz=lg)
+    * [search icon](https://fontawesome.com/v5/icons/search?f=classic&s=solid&sz=lg)
+    * [bullhorn icon](https://fontawesome.com/v5/icons/bullhorn?f=classic&s=solid)
+    * [flask icon](https://fontawesome.com/v5/icons/flask?f=classic&s=solid)
+    * [info icon](https://fontawesome.com/v5/icons/info-circle?f=classic&s=solid)
 28. Settings and Chat Screen Part One
 29. Chat Screen Part Two
 30. Chat Screen Part Three
