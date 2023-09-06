@@ -93,6 +93,7 @@
     * [flask icon](https://fontawesome.com/v5/icons/flask?f=classic&s=solid)
     * [info icon](https://fontawesome.com/v5/icons/info-circle?f=classic&s=solid)
 28. Settings and Chat Screen Part One
+    * [bars icon](https://fontawesome.com/v5/icons/bars?f=classic&s=solid)
 29. Chat Screen Part Two
 30. Chat Screen Part Three
 31. Chat Screen Part Four
