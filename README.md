@@ -108,6 +108,7 @@
 36. Navigation Animation
 37. More Animations
 38. Animating Chats Screen
+    * homeword: fade-in messages
 39. Recap
 40. No Mobile Media Query
 
