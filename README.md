@@ -103,6 +103,7 @@
     * [smile icon](https://fontawesome.com/v5/icons/smile-wink?f=classic&s=regular)
     * [arrow icon](https://fontawesome.com/v5/icons/arrow-up?f=classic&s=solid)
 34. Splash Screen Part One
+    * [comment icon](https://fontawesome.com/v5/icons/comment?f=classic&s=solid)
 35. Splash Screen Part Two
 36. Navigation Animation
 37. More Animations
