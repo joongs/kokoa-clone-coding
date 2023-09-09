@@ -99,6 +99,9 @@
 31. Chat Screen Part Four
 32. Chat Screen Part Five
 33. Write Message Input
+    * [plus icon](https://fontawesome.com/v5/icons/plus-square?f=classic&s=regular)
+    * [smile icon](https://fontawesome.com/v5/icons/smile-wink?f=classic&s=regular)
+    * [arrow icon](https://fontawesome.com/v5/icons/arrow-up?f=classic&s=solid)
 34. Splash Screen Part One
 35. Splash Screen Part Two
 36. Navigation Animation
